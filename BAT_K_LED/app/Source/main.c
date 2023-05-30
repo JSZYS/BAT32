@@ -14,11 +14,19 @@ int main()
 		{
 			  LED1_ON;
 			  LED2_OFF;
-			  delay_ms(200);
+			  delay_ms(500);
 			 
         LED1_OFF;
 			  LED2_ON;
-			  delay_ms(200);
+			  delay_ms(500);
+			
+			  LED1_ON;
+			  LED2_OFF;
+			  delay_ms(500);
+			
+			  LED1_OFF;
+			  LED2_ON;
+			  delay_ms(500);
 		}
 }
 

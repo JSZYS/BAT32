@@ -11,7 +11,7 @@ I (E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h)(0x5A8E1FE2)
 I (E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h)(0x5A8E1FE2)
 I (.\Device\Include\system_BAT32A239.h)(0x64004688)
 I (.\Device\Include\BAT32A239_conf.h)(0x64004688)
-F (.\app\Source\led.c)(0x64411E95)(--c99 --gnu -c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\Device\Include -I .\Driver\include -I .\app\Include-I.\RTE\Device\BAT32A239KK80FA-I.\RTE\_Target_1-IE:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-IE:\Keil5\ARM\PACK\Cmsemicon\BAT32A239\1.0.00\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DUSE_STDPERIPH_DRIVER -DBAT32G139_80PIN-o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
+F (.\app\Source\led.c)(0x6441EB08)(--c99 --gnu -c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\Device\Include -I .\Driver\include -I .\app\Include-I.\RTE\Device\BAT32A239KK80FA-I.\RTE\_Target_1-IE:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-IE:\Keil5\ARM\PACK\Cmsemicon\BAT32A239\1.0.00\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DUSE_STDPERIPH_DRIVER -DBAT32G139_80PIN-o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
 I (.\app\Include\led.h)(0x64412332)
 I (.\Driver\include\gpio.h)(0x64004688)
 I (.\Driver\include\common.h)(0x6434F183)
@@ -24,7 +24,7 @@ I (E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h)(0x5A8E1FE2)
 I (.\Device\Include\system_BAT32A239.h)(0x64004688)
 I (.\Device\Include\BAT32A239_conf.h)(0x64004688)
 I (E:\Keil5\ARM\ARMCC\include\assert.h)(0x599ECD2A)
-F (.\app\Source\main.c)(0x644123A9)(--c99 --gnu -c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\Device\Include -I .\Driver\include -I .\app\Include-I.\RTE\Device\BAT32A239KK80FA-I.\RTE\_Target_1-IE:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-IE:\Keil5\ARM\PACK\Cmsemicon\BAT32A239\1.0.00\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DUSE_STDPERIPH_DRIVER -DBAT32G139_80PIN-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (.\app\Source\main.c)(0x647590B8)(--c99 --gnu -c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\Device\Include -I .\Driver\include -I .\app\Include-I.\RTE\Device\BAT32A239KK80FA-I.\RTE\_Target_1-IE:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include-IE:\Keil5\ARM\PACK\Cmsemicon\BAT32A239\1.0.00\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DUSE_STDPERIPH_DRIVER -DBAT32G139_80PIN-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (.\Device\Include\BAT32A239.h)(0x64004688)
 I (E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm0plus.h)(0x5A8E1FE2)
 I (E:\Keil5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
