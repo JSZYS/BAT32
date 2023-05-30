@@ -1,0 +1,12 @@
+--cpu Cortex-M0+
+".\objects\delay_dm.o"
+".\objects\led.o"
+".\objects\main.o"
+".\objects\gpio.o"
+".\objects\delay.o"
+".\objects\startup_bat32a239.o"
+".\objects\system_bat32a239.o"
+--strict --scatter ".\Objects\led.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\led.map" -o .\Objects\led.axf

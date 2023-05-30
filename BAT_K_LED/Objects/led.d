@@ -1,0 +1,13 @@
+.\objects\led.o: app\Source\led.c
+.\objects\led.o: .\app\Include\led.h
+.\objects\led.o: .\Driver\include\gpio.h
+.\objects\led.o: .\Driver\include\common.h
+.\objects\led.o: .\Device\Include\BAT32A239.h
+.\objects\led.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm0plus.h
+.\objects\led.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\led.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_version.h
+.\objects\led.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h
+.\objects\led.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h
+.\objects\led.o: .\Device\Include\system_BAT32A239.h
+.\objects\led.o: .\Device\Include\BAT32A239_conf.h
+.\objects\led.o: E:\Keil5\ARM\ARMCC\Bin\..\include\assert.h

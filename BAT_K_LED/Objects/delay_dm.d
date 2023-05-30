@@ -1,0 +1,12 @@
+.\objects\delay_dm.o: app\Source\delay_dm.c
+.\objects\delay_dm.o: .\app\Include\delay_dm.h
+.\objects\delay_dm.o: .\Driver\include\delay.h
+.\objects\delay_dm.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\delay_dm.o: .\Driver\include\common.h
+.\objects\delay_dm.o: .\Device\Include\BAT32A239.h
+.\objects\delay_dm.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm0plus.h
+.\objects\delay_dm.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_version.h
+.\objects\delay_dm.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h
+.\objects\delay_dm.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h
+.\objects\delay_dm.o: .\Device\Include\system_BAT32A239.h
+.\objects\delay_dm.o: .\Device\Include\BAT32A239_conf.h

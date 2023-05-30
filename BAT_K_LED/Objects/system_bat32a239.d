@@ -1,0 +1,9 @@
+.\objects\system_bat32a239.o: RTE\Device\BAT32A239KK80FA\system_BAT32A239.c
+.\objects\system_bat32a239.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_bat32a239.o: .\Device\Include\BAT32A239.h
+.\objects\system_bat32a239.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm0plus.h
+.\objects\system_bat32a239.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_version.h
+.\objects\system_bat32a239.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h
+.\objects\system_bat32a239.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h
+.\objects\system_bat32a239.o: .\Device\Include\system_BAT32A239.h
+.\objects\system_bat32a239.o: .\Device\Include\BAT32A239_conf.h

@@ -1,0 +1,12 @@
+.\objects\gpio.o: Driver\src\gpio.c
+.\objects\gpio.o: .\Driver\include\gpio.h
+.\objects\gpio.o: .\Driver\include\common.h
+.\objects\gpio.o: .\Device\Include\BAT32A239.h
+.\objects\gpio.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm0plus.h
+.\objects\gpio.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gpio.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_version.h
+.\objects\gpio.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h
+.\objects\gpio.o: E:\Keil5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h
+.\objects\gpio.o: .\Device\Include\system_BAT32A239.h
+.\objects\gpio.o: .\Device\Include\BAT32A239_conf.h
+.\objects\gpio.o: E:\Keil5\ARM\ARMCC\Bin\..\include\assert.h
